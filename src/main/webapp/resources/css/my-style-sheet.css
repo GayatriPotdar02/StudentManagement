@@ -1,0 +1,25 @@
+@charset "ISO-8859-1";
+h1
+{
+	color: red;
+}
+.fontstyle{
+	font-size: 20px;
+	font-family: cursive;
+}
+.mybutton{
+	color: red;
+	padding :10 px 10px 10px 10px;
+	font-size: 20px;
+	font-family: cursive;
+	
+}
+.mytable{
+	width:100%;
+}
+.container{
+	align-content: center
+}
+.image{
+	padding-left: 300px;
+}
